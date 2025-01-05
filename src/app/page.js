@@ -212,7 +212,7 @@ const Home = () => {
           {bookings.length === 0 ? (
             <div className="flex justify-center items-center">
               <span className="text-lg font-medium text-gray-800">
-                No bookings available.
+                Book your slot.
               </span>
             </div>
           ) : (
